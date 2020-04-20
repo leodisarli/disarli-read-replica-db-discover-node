@@ -33,7 +33,7 @@ console.log(ReadReplicaUrl(masterUrl));
 
 ## Example
 * `npm run example` or `node example/read-replica-example.js`
-* Check [example code](https://github.com/leodisarli/disarli-read-replica-db-discover-node/blob/master/example/read-replica-example.js). When you run the example you should have an output in console log.
+* Check [example code](https://github.com/leodisarli/disarli-read-replica-db-discover-node/blob/master/example/read-replica-db-example.js). When you run the example you should have an output in console log.
 
 ## Test
 * `mocha` or `npm test`
