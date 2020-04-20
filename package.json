@@ -1,0 +1,41 @@
+{
+  "name": "read-replica-discover-node",
+  "version": "1.0.0",
+  "description": "receive a database master url and return his read replica url based on paramters",
+  "main": "index.js",
+  "directories": {
+    "lib": "src",
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node node_modules/mocha/bin/_mocha --recursive --slow 10000",
+    "example": "node example/read-replica-example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodisarli/disarli-read-replica-discover-node.git"
+  },
+  "engines": {
+    "node": ">=6.8.1"
+  },
+  "keywords": [
+    "read",
+    "replica",
+    "node",
+    "url",
+    "database"
+  ],
+  "author": {
+    "name": "Leonardo Di Sarli",
+    "email": "leosarli@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodisarli/disarli-read-replica-discover-node/issues"
+  },
+  "homepage": "https://github.com/leodisarli/disarli-read-replica-discover-node#readme"
+}
