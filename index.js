@@ -1,3 +1,3 @@
-const ReadReplicaUrl = require('./src/read-replica-discover.js');
+const ReadReplicaUrl = require('./src/read-replica-db-discover.js');
 
 module.exports = ReadReplicaUrl;
