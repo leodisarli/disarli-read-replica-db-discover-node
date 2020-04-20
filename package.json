@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leodisarli/disarli-read-replica-discover-node.git"
+    "url": "git+https://github.com/leodisarli/disarli-read-replica-discover-node"
   },
   "engines": {
     "node": ">=6.8.1"
@@ -37,5 +37,5 @@
   "bugs": {
     "url": "https://github.com/leodisarli/disarli-read-replica-discover-node/issues"
   },
-  "homepage": "https://github.com/leodisarli/disarli-read-replica-discover-node#readme"
+  "homepage": "https://github.com/leodisarli/disarli-read-replica-discover-node"
 }
