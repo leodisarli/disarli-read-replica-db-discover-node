@@ -1,5 +1,5 @@
 {
-  "name": "read-replica-discover-node",
+  "name": "read-replica-discover",
   "version": "1.0.0",
   "description": "receive a database master url and return his read replica url based on paramters",
   "main": "index.js",
