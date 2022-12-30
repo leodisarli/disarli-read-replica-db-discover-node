@@ -8,7 +8,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "mocha": "^6.2.3"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "start": "node index.js",
